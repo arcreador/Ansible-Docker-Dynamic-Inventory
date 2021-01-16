@@ -1,0 +1,6 @@
+http_port: 8081
+ssh_port: 2222
+image: "arcreador/myweb:v1"
+container_name: "os1"
+dvd_dir: "/dvd1"
+
